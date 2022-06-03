@@ -28,7 +28,7 @@
 #### 4、功能清单：
 V1：
 
-![瑞吉外卖功能清单](/Users/yifancheung/Desktop/IC_MSc/JOB/瑞吉外卖功能清单.png)
+![功能清单](https://github.com/yifanzhang13/FoodKangaroo/blob/main/img/list.png)
 
 v2：补充一些功能
 
