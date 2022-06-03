@@ -28,7 +28,7 @@
 #### 4、功能清单：
 V1：
 
-![功能清单](https://github.com/yifanzhang13/FoodKangaroo/blob/main/img/list.png)
+![功能清单](https://github.com/yifanzhang13/FoodKangaroo/blob/main/img/list1.png)
 
 v2：补充一些功能
 
